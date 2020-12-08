@@ -9,7 +9,7 @@ script: JEKYLL_ENV=production bundle exec jekyll build --config ./docs/_config.y
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: 542c80029f425b1765fc5d7992424f15d4792ef3
+  github_token: $GITHUB_TOKEN
   local_dir: _site
   keep-history: true
   on:

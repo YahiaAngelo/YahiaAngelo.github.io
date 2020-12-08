@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : Yahia
   url       :
-  avatar    : # path or url of avatar image (square)
+  avatar    : https://raw.githubusercontent.com/YahiaAngelo/YahiaAngelo.github.io/master/android-chrome-512x512.png # path or url of avatar image (square)
   bio       : Just another dev.
   email     : yahia.mostafa.elsayed@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
